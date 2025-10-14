@@ -6,6 +6,7 @@
 
 👉 `main` 브랜치는  **최종 코드**와 **학습 인덱스, 정리용 문서**를 포함합니다.
 
+[참고 강의](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-db-1/dashboard)
 
 
 ## 🚦 단계별 학습 목차
