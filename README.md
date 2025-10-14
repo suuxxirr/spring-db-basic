@@ -21,5 +21,5 @@
 | 06 | Exception2 | [step-06-exception2](https://github.com/suuxxirr/spring-db-basic/tree/step-06-exception2) | [#6](https://github.com/suuxxirr/spring-db-basic/pull/6) |
 
 ## 🚀 Next Step
-다음 학습 주제는 **Spring DB 심화**입니다.  
+다음 학습 주제는 [Spring DB 활용](https://github.com/suuxxirr/spring-db-advanced)입니다.  
 
